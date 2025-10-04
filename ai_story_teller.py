@@ -12,7 +12,7 @@ google ai studio for api key
 
 # Commented out IPython magic to ensure Python compatibility.
 # @title
-# %env GEMINI_API_KEY=AIzaSyAMczrM55eo9ZE43PRgPCCLFwNzpH5AyJI
+# %env GEMINI_API_KEY=
 
 !pip install -q transformers pillow google-generativeai
 
